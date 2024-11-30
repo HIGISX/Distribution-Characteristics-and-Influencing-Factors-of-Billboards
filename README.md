@@ -1,5 +1,20 @@
 # Distribution-Characteristics-and-Influencing-Factors-of-Billboards
 
+This project is the code for the study: 
+
+Wang, S., Su, C., Zhou, J., Li, X., Xu, D., & Wei, W. (2023, November). Analysis of the Distribution Characteristics and Influencing Factors of Advertising Billboards in Wuhan. In Proceedings of the 7th ACM SIGSPATIAL Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising (pp. 6-14).[[Full article]](https://dl.acm.org/doi/abs/10.1145/3615896.3628348)
+
+Paper reference:
+```bash
+@inproceedings{wang2023analysis,
+  title={Analysis of the Distribution Characteristics and Influencing Factors of Advertising Billboards in Wuhan},
+  author={Wang, Shaohua and Su, Cheng and Zhou, Junyuan and Li, Xiao and Xu, Dachuan and Wei, Wenyu},
+  booktitle={Proceedings of the 7th ACM SIGSPATIAL Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising},
+  pages={6--14},
+  year={2023}
+}
+```
+
 <p align="center">
 <img width="263" alt="image" src="https://github.com/HIGISX/Distribution-Characteristics-and-Influencing-Factors-of-Billboards/assets/115253111/44c763c9-cbc1-4832-a08d-ff3255140ca9">
 </p>
